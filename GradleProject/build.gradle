@@ -1,6 +1,7 @@
 apply plugin :'java'
 apply plugin :'application'
 mainClassName='HelloWorld'
+
 repositories{
 maven{
 url "http://10.109.32.183:8081/nexus/content/groups/public"
